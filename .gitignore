@@ -14,7 +14,7 @@ dist
 *.log
 
 # Environment files (keep only the example)
-.env
+# .env
 .env.local
 !.env.example
 
