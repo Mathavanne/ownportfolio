@@ -1,0 +1,29 @@
+name: CI (Next.js)
+
+on:
+  push:
+    branches: [main]   # change if your default branch is different
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_APP_URL: ${{ secrets.NEXT_PUBLIC_APP_URL }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v3
+
+      # Install dependencies
+      - run: npm install
+
+      # Build Next.js project
+      - run: npm run build
+
+      # (Optional) Upload the compiled build as an artifact
+      - name: Upload Next.js build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: next-build
+          path: .next
