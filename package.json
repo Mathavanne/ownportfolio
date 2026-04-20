@@ -15,7 +15,7 @@
     "axios": "^1.6.8",
     "dotenv": "^17.2.2",
     "lottie-react": "^2.4.1",
-    "next": "^15.5.2",
+    "next": "15.5.9",
     "nodemailer": "^6.9.15",
     "react": "19.0.0",
     "react-dom": "19.0.0",
