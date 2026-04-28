@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'madymurugan.2u@gmail.com',
     phone: '+91 9994173677',
-    address: 'Pondicherry,Pondicherry',
+    address: 'Pondicherry',
     github: 'https://github.com/Mathavanne',
     facebook: '',
     linkedIn: 'https://www.linkedin.com/in/mady04/',
