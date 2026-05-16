@@ -3,7 +3,7 @@ export const personalData = {
   profile: '/profile.jpg',
   designation: "Software Engineer",
   description:"As a full-stack developer, I've had the privilege of working on both the front-end and back-end of projects. I'm fueled by a deep passion for problem-solving and thrive in collaborative environments where I can transform ideas into reality. I have Worked as a Software Developer at Start-Up called Vilora Technologies. My tenure at my company has been marked by my proactive approach, taking ownership of tasks, and driving impactful changes. I am a full-stack developer & specialize in C# and .Net. And I am Done Games using GDevelop. I love connecting with passionate individuals in tech! Let's connect",
-  email: 'madymurugan.2u@gmail.com',
+  email: 'unicorn@matrixmaddy.dev',
   phone: '+91 7639696402',
   address: 'Bengaluru',
   github: 'https://github.com/Mathavanne',
