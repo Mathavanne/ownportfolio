@@ -2,6 +2,7 @@ export const skillsData = [
   'HTML',
   'CSS',
   'Javascript',
+  'Java',
   'C#',
   'C++',
   'Tailwind',
@@ -12,11 +13,13 @@ export const skillsData = [
   'PHP',
   'React',
   'Canva',
+  'Figma',
   'Illustrator',
   'Photoshop',
   'Docker',
   'Angular',
   'Typescript',
+  'Node JS',
   'MongoDB',
   'Unity'
   
