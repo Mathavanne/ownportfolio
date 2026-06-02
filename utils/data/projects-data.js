@@ -18,19 +18,19 @@ export const projectsData = [
         demo: '',
         image: crefin,
     },
-//     {
-//         id: 2,
-//         name: 'Custom Reverse Proxy (for LinktoSync.com)',
-//         description: `'Engineered a reverse proxy server from scratch, optimizing traffic flow between client requests and backend services to
-// improve efficiency and security.
-// Implemented tailored rate limiting strategies to protect against overUse and DoS attacks, and added basic caching
-// mechanisms which led to a 30% improvement in response time and a 20% reduction in server load'`,
-//         tools: ["Node.js", "Docker", "node-cache"],
-//         role: 'Full Stack Developer',
-//         code: '',
-//         demo: '',
-//         image: travel,
-//     },
+    {
+   id: 2,
+      name: 'Custom Reverse Proxy (for LinktoSync.com)',
+       description: `'Engineered a reverse proxy server from scratch, optimizing traffic flow between client requests and backend services to
+ improve efficiency and security.
+Implemented tailored rate limiting strategies to protect against overUse and DoS attacks, and added basic caching
+mechanisms which led to a 30% improvement in response time and a 20% reduction in server load'`,
+        tools: ["Node.js", "Docker", "node-cache"],
+       role: 'Full Stack Developer',
+    code: '',
+      demo: '',
+     image: travel,
+    },
     // {
     //     id: 3,
     //     name: 'AI Powered Real Estate',
