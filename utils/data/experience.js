@@ -10,11 +10,6 @@ export const experiences = [
     title: "Mentor",
     company: "G-Tec Computer Education",
     duration: "(March 2025 - June 2025)"
-  },
-  {
-   id: 3,
-   title: "Customer Care Executive",
-   company: "All Digitech",
-   duration: "(May 2026 - Present)"
   }
+  
 ]
