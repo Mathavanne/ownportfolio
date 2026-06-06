@@ -30,7 +30,7 @@ mechanisms which led to a 30% improvement in response time and a 20% reduction i
     code: '',
       demo: '',
      image: travel,
-    },
+    }
     // {
     //     id: 3,
     //     name: 'AI Powered Real Estate',
