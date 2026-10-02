@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+91 9994173677',
   address: 'Bengaluru',
   github: 'https://github.com/Mathavanne',
-  facebook: '',
+  facebook: 'https://www.instagram.com/_mr.maddy_04',
   linkedIn: 'https://www.linkedin.com/in/mady04/',
   twitter: 'https://twitter.com/mr_maddy04',
   stackOverflow: '',
