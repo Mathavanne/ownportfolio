@@ -2,7 +2,7 @@ export const personalData = {
   name: "Maddy",
   profile: '/profile.jpg',
   designation: "Software Engineer",
-  description:"As a full-stack developer, I've had the privilege of working on both the front-end and back-end of projects. I'm fueled by a deep passion for problem-solving and thrive in collaborative environments where I can transform ideas into reality. I have Worked as a Software Developer at Start-Up called Vilora Technologies. My tenure at my company has been marked by my proactive approach, taking ownership of tasks, and driving impactful changes. I am a full-stack developer & specialize in C# and .Net. And I am Done Games using GDevelop. I love connecting with passionate individuals in tech! Let's connect",
+  description: "I am a dedicated Full Stack Developer with a strong foundation in modern backend architectures and responsive frontend engineering. Driven by a problem-solving mindset and a commitment to clean code, I specialize in building end-to-end web applications—from designing relational and NoSQL databases to deploying server-rendered frontends and containerized microservices. With expertise across the .NET ecosystem, JavaScript/React/Next.js, and Java/Node.js, I bring versatility to complex software projects. I thrive on translating real-world business challenges into scalable digital solutions, whether architecting multi-industry freelance marketplaces, high-throughput e-commerce engines, or high-performance corporate platforms.",
   email: 'madymurugan.2u@gmail.com',
   phone: '+91 9994173677',
   address: 'Bengaluru',
