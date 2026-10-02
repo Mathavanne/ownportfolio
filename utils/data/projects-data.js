@@ -17,19 +17,31 @@ export const projectsData = [
         code: '',
         demo: '',
         image: travel,
-    }
+    },
     
    
-    // {
-    //     id: 3,
-    //     name: 'AI Powered Real Estate',
-    //     description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-    //     tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
-    //     code: '',
-    //     role: 'Full Stack Developer',
-    //     demo: '',
-    //     image: realEstate,
-    // },
+    {
+        id: 2,
+        name: 'Shopping Cart',
+        description: 'Developed a full-featured e-commerce web application featuring a fully dynamic shopping cart and streamlined payment gateway integration. Built a robust backend using Node.js and Java, paired with a high-performance frontend using React, Next.js, Tailwind CSS, and SCSS for responsive styling. Integrated MongoDB for efficient database management, product cataloging, and secure order processing across web platforms.',
+        tools: ['React', 'Next.js', 'Tailwind CSS', 'SCSS', 'Node.js', 'Java', 'MongoDB', 'Docker'],
+        code: '',
+        role: 'Full Stack Developer',
+        demo: '',
+        image: ayla,
+    },
+
+{
+    id: 3,
+    name: 'Company Website',
+    description: 'Designed and developed a responsive corporate web application for an import-export business (Wavlix) to showcase interactive product catalogs featuring high-quality images of available goods like spices, produce, and pulses. Integrated Telegram API for instant enquiry messaging and lead routing directly from client inquiries. Utilized React and Next.js for SSR performance, MongoDB for dynamic product data handling, Tailwind CSS and SCSS for custom UI styling, and containerized the entire app using Docker.',
+    tools: ['React', 'Next.js', 'MongoDB', 'Telegram API', 'Tailwind CSS', 'SCSS', 'Docker'],
+    code: '',
+    role: 'Full Stack Developer',
+    demo: 'https://www.wavlix.com',
+    image: crefin,
+}
+    ,
     // {
     //     id: 4,
     //     name: 'Newsroom Management',
