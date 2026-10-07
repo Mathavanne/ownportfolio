@@ -140,8 +140,8 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Next.js</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MVC .Net</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Typescript</span>
                 <span className="text-amber-300">Tailwind CSS</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React.js</span>
