@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'Freelancer Site (Work in Progress)',
+        name: 'Freelancer Site (In Progress)',
         description:` "This project is a comprehensive freelancer marketplace designed to connect
           service providers across various industries with customers seeking their expertise.
           The platform supports a wide range of professionals, including drivers, doctors, 
